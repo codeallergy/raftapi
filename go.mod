@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/codeallergy/glue v1.0.2
-	github.com/codeallergy/raftpb v1.0.0
+	github.com/codeallergy/raftpb v1.0.1
 	github.com/codeallergy/sprint v1.0.4
 	github.com/hashicorp/raft v1.3.11
 	google.golang.org/grpc v1.53.0
